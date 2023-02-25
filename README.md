@@ -11,11 +11,7 @@
 
 - 🔭 I’m currently working on **Various projects for FEM Coders P1**
 
-- 👯 I’m looking to collaborate on **Various projects for FEM Coders P1**
-
 - 👨‍💻 All of my projects are available at [https://github.com/nataliaplm](https://github.com/nataliaplm)
-
-- 💬 Ask me about **Fullstack Development Jr. in Factoria F5**
 
 - 📫 How to reach me **nataliapalomof@gmail.com**
 
@@ -32,10 +28,10 @@
 <br>
 
 #
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nataliaplm" alt="nataliaplm" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nataliaplm" alt="nataliaplm" /></a> </p>
 
-<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliaplm&show_icons=true&locale=en&layout=compact" alt="nataliaplm" /></p>
+<p  align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliaplm&show_icons=true&locale=en&layout=compact" alt="nataliaplm" /></p>
 
-<p  align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nataliaplm&show_icons=true&locale=en" alt="nataliaplm" /></p>
+<p  align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nataliaplm&show_icons=true&locale=en" alt="nataliaplm" /></p>
 
-<p  align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nataliaplm&" alt="nataliaplm" /></p>
+<p  align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nataliaplm&" alt="nataliaplm" /></p>
