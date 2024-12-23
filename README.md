@@ -13,7 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nataliaplm](https://github.com/nataliaplm)
 
-- 📫 How to reach me **nataliapalomof@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
